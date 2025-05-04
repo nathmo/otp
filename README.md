@@ -12,6 +12,9 @@ python3 otp.py encrypt input.txt [optional_pad.txt]
 ```
 Decrypt:
 ```
+python3 otp.py decrypt encrypted.txt pad.txt
+```
+```
 .\otp.exe decrypt encrypted.txt pad.txt
 ```
 if just double click and run the .exe you will enter interactive mode and will be prompted each parameters withouth having to use the terminal.
